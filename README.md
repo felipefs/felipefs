@@ -1,16 +1,17 @@
-### Hi there 👋
+Olá :smiley:,
 
-<!--
-**felipefs/felipefs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Felipe, trabalho como *Analista de Sistemas* :computer: há muitos anos.​
 
-Here are some ideas to get you started:
+**Principais Tarefas** :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desenvolvimento em .Net e Advpl(Protheus)
+- Customizações no Protheus, nos módulos controle de loja, financeiro, estoque, compras, RH e TMS. 
+
+**Formação:**
+
+- Pós-Graduação em Projeto de Banco de Dados
+ 
+
+Meu perfil é https://www.linkedin.com/in/felipefsiqueira/
+
+  
